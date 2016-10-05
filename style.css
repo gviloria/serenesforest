@@ -1,0 +1,55 @@
+.news {
+  background-color: #507529;
+  color: #FFF;
+  font-size: 1em;
+  padding: 7px 16px;
+  font-weight: bold;
+  margin: 5px 5px 0px 5px;
+  background: #507529
+}
+
+.listmargin {
+  margin-left: 10px;
+}
+
+.searchbar {
+  margin: 10px 5px 10px 15px;
+}
+
+.announcements {
+  background: #D6EEBB;
+  margin: 5px;
+  font-size: 1em;
+  color: rgb(80, 117, 41);
+}
+
+.m {
+  margin:5px;
+}
+
+.time {
+  color: #888;
+  font-size: 11px;
+}
+.background {
+  background-image: url("http://serenesforest.net/wp-content/uploads/2013/03/sfwall-20-111.jpg");
+  background-size: cover;
+}
+
+.imageformat {
+  float: left;
+  margin:5px;
+}
+
+.banner {
+  background: url("http://serenesforest.net/wp-content/themes/serenes-forest-default/images/banner.png");
+  height: 180px;
+  width: 940px;
+  margin: 5px;
+}
+
+#wrapper {
+  background: #effbe3;
+  width: 950px;
+  margin: 40px auto 10px auto;
+}
